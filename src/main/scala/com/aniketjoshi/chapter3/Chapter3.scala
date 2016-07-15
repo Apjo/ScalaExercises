@@ -1,3 +1,5 @@
+package com.aniketjoshi.chapter3
+
 import scala.util.Random
 
 object Chapter3 {
